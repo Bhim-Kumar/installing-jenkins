@@ -1,6 +1,7 @@
 # 1. Installing Jenkins
 
 First, update the default Ubuntu packages lists for upgrades with the following command:
+use "bash"
 ```bash
 sudo apt-get update
 ```
